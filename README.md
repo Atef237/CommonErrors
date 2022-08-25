@@ -18,6 +18,7 @@ solution of error
 
 <br>
 
+# Errors
 # Error in image upload using PHP GD Library
 ### The error is currently visible
 ```
