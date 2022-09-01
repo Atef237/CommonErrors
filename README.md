@@ -34,3 +34,15 @@ PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php5/2009062
 2- shut down your pc
 <br>
 3- Turn on your computer
+
+# get part of text 
+### function
+```
+Str::limit( 'text' , number)
+```
+### example
+```
+Str::limit( $_question->question , 50)
+```
+
+
